@@ -15,6 +15,8 @@ Rural Solutions' Agent Skills, served to the team through Conduit (pack: rst-ski
 ## Releasing a change
 1. Edit the skill, bump `version` in `.claude-plugin/plugin.json` and the skill's footer line.
 2. Commit and push to `main`.
-3. In Conduit, re-import or sync the pack from this repo, then review and enable any new or changed skill.
+3. In Conduit (Skill Packs, Custom), press the sync arrow on the ruraltechsllc/rst-skills card, then review and enable any new or changed skill. Conduit serves it as pack `custom-ruraltechsllc-rst-skills`.
+
+This repo is public, so Conduit can read it. Never put passwords, keys, tokens or client secrets in a skill.
 
 Owner: Thomas.
