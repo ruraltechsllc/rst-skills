@@ -1,0 +1,8 @@
+{
+  "name": "rst-skills",
+  "version": "3.3.0",
+  "description": "Rural Solutions' Autotask skills, through Conduit (CIPP through its own connector): rs-today (what's next, my day, NOD check-in, close out), rs-tickets (the board), rs-ticket (go deep on one ticket: new-ticket or escalation brief), rs-projects (read, build and close projects), rs-lifecycle (a person, a device or a whole client starting or leaving), rs-bec-check (a suspected compromised account) and rs-visual (a plain-language HTML page for a client, published to IT Glue or the website). Writes only what you approve. IDs come from the RST Tech Cheat Sheet.",
+  "author": {
+    "name": "Rural Solutions"
+  }
+}
